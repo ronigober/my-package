@@ -12,7 +12,7 @@ setup(
    packages=find_packages(),
    install_requires=["sourcedefender", "pandas"],
    setup_requires=['setuptools'],
-   python_requires='>=3.8.0',
+   python_requires='>=3.9.0',
 
    include_package_data=True
 )
